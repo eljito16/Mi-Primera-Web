@@ -1,6 +1,6 @@
 # Portafolio - Juan José Arboleda Ruiz
 
-Página web de portafolio personal hecha con HTML y Tailwind CSS .
+Página web de portafolio personal hecha con HTML y Bootstrap (por CDN).
 
 ## Qué hay
 
@@ -11,6 +11,5 @@ Página web de portafolio personal hecha con HTML y Tailwind CSS .
   - Talentos
   - Datos de contacto
   - Links (LinkedIn y GitHub)
-  - Botón **Cambiar tema** para alternar entre modo claro y oscuro (se guarda la elección en el navegador).
-- Colores: azul oscuro y negro.
+  - Referencias personales
 
